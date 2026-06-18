@@ -1,3 +1,5 @@
+INTERN ID: CITS4355
+
 OVERVIEW:
 
 The Smart Traffic Light Controller is an Arduino-based intelligent traffic management system designed to improve traffic flow, reduce congestion, and enhance road safety. Unlike conventional traffic lights that operate on fixed timing cycles, this project dynamically adjusts signal timings based on traffic density and includes additional smart features such as pedestrian crossing assistance, emergency vehicle priority, and night mode operation.
